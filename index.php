@@ -6,7 +6,7 @@ Website: https://www.allphptricks.com
 ?>
 <html>
 <head>
-<title>Create Simple Pagination Using PHP and PDO - AllPHPTricks.com</title>
+<title>Create Simple Pagination Using PHP and PDO</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
@@ -142,8 +142,7 @@ if (isset($_GET['page_no']) && $_GET['page_no']!="") {
 
 
 <br /><br />
-<a href="https://www.allphptricks.com/create-simple-pagination-using-php-and-mysqli/"><strong>Tutorial Link</strong></a> <br /><br />
-For More Web Development Tutorials Visit: <a href="https://www.allphptricks.com/"><strong>AllPHPTricks.com</strong></a>
+<a href="https://github.com/ishado/Simple-Pagination-Using-PHP/blob/pdo/README.md"><strong>Download Link</strong></a> <br /><br />
 </div>
 </body>
 </html>
