@@ -9,6 +9,4 @@
 
 
 ### Screenshot:
-
-Inline-style: 
 ![alt text](https://github.com/ishado/Simple-Pagination-Using-PHP/blob/master/screenshot.png "Screenshot")
